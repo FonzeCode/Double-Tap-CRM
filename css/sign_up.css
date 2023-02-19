@@ -52,7 +52,7 @@ body{
 .iconname{ 
     height: 100px;
     width: 100px;
-    background: url(/CSS/image/Page-1@2x.png) no-repeat;
+    background: url(/images/Page-1@2x.png) no-repeat;
     background-size: 5%;
     background-position:5%;
     
@@ -61,14 +61,14 @@ body{
 .iconemail{ 
     height: 100px;
     width: 100px;
-    background: url(/CSS/image/small_email.svg) no-repeat;
+    background: url(/images/small_email.svg) no-repeat;
     background-size: 5%;
     background-position:5%;
 }
 .iconpassword{ 
     width:100px;
     height: 100px;
-    background: url(/CSS/image/black_lock.svg.png) no-repeat;
+    background: url(/images/black_lock.svg.png) no-repeat;
     background-size: 5%;
     background-position: 5%;
 }
@@ -124,7 +124,7 @@ body{
 
 .images{
     grid-area: image;
-    background-image:url(/CSS/image/Group10.png);
+    background-image:url(/images/Group10.png);
     background-repeat: no-repeat;
     width:100%;
     height:100%;
